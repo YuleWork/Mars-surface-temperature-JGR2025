@@ -1,29 +1,20 @@
-# Martian surface warming observations and roles of surface and atmospheric properties
+# Martian Surface Temperature Variability and Its Drivers during MY29–36 from MCS Observations and Climate Modeling
 
-> **Note:** This repository is currently private and will be made public after the acceptance of our manuscript titled  
-> **Martian surface warming observations and roles of surface and atmospheric properties**, submitted to *Nature Communications*.
+[[No DOI yet](https://doi.org/10.xxxx)](https://doi.org/10.xxxx) 
 
-## Overview
+This repository contains the source data, processing scripts, and plotting codes for the manuscript:
 
-This repository contains the code and data used in the analysis for our paper:
+**"Martian Surface Temperature Variability and Its Drivers during MY29–36 from MCS Observations and Climate Modeling"** **Authors:** Yu Wang, Shuanggen Jin  
+**Journal:** *JGR-Planets*
 
-**Martian surface warming observations and roles of surface and atmospheric properties**  
-Authors: Yu Wang, Shuanggen Jin
-Submitted to *Nature Communications*, July, 2025
+## 📂 Repository Structure
 
-Once the paper is accepted, we will publicly release the following:
-- Source code for data processing, modeling, and visualization
-- Scripts to reproduce the key figures and results
+The repository is organized as follows:
 
-## Timeline
-
-- 📤 **Submission Date**: July 2025
-- ⏳ **Status**: Under review  
-- ✅ **Public Release**: Upon acceptance
-
-## License
-
-To be announced upon publication.
+- **`data/`**: Contains the processed MCS observation data and climate modeling outputs used in the study.
+  - `processed_temps.nc`: [Brief description of the file]
+  - `model_output_MY29-36.csv`: [Brief description of the file]
+- **`code/`**: Source code for data analysis 
 
 ## Contact
 
