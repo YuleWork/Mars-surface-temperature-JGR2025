@@ -4,7 +4,7 @@
 
 This repository contains the source data, processing scripts, and plotting codes for the manuscript:
 
-**"Martian Surface Temperature Variability and Its Drivers during MY29–36 from MCS Observations and Climate Modeling"**
+**Martian Surface Temperature Variability and Its Drivers during MY29–36 from MCS Observations and Climate Modeling**
 **Authors:** Yu Wang, Shuanggen Jin  
 **Journal:** *JGR-Planets*
 
