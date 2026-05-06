@@ -1,6 +1,6 @@
 # Martian Surface Temperature Variability and Its Drivers during MY29–36 from MCS Observations and Climate Modeling
 
-[[No DOI yet](https://doi.org/10.xxxx)](https://doi.org/10.xxxx) 
+[[10.1029/2025JE009381](https://doi.org/10.1029/2025JE009381)]
 
 This repository contains the source data, processing scripts, and plotting codes for the manuscript:
 
